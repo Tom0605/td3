@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/ligne.css">
-    <title></title>
+    <title>Document</title>
 </head>
 <body>
-<h1> Hello world</h1>
-modifié
+    <h1> page contact</h1>
 </body>
 </html>
