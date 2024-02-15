@@ -9,6 +9,6 @@
 <h1> Hello world</h1>
 modifié
 <a href="contact.php">page contact</a>
-<img src="C:\Users\paulv\Documents\Fond_écran\ds.jpg" alt="image">
+<img src="ds.jpg" alt="image" height="400px" width="400px">
 </body>
 </html>
