@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1> Hello world</h1>
-<h1> ajout du h1 dans master ,tintin </h1>
+<h1> titre h1 bonne version </h1>
 modifié
 <a href="contact.php">page contact</a>
 <img src="ds.jpg" alt="image" height="400px" width="400px">
