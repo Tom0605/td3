@@ -12,6 +12,7 @@
         <li>Abdelmouez MEMMI - abdelmouez.memmi@gmail.com</li>
     </ul>
     <footer>
+        &copy;2024
     </footer>
 </body>
 </html>
