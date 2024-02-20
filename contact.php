@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1> page contact</h1>
-    
+    <ul>
+        <li>Abdelmouez MEMMI - abdelmouez.memmi@gmail.com</li>
+    </ul>
+    <footer>
+    </footer>
 </body>
 </html>
