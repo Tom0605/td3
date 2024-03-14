@@ -15,5 +15,7 @@
     <footer>
         &copy;2024
     </footer>
+    hello world ! 
+    How are you ?
 </body>
 </html>
