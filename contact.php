@@ -10,6 +10,7 @@
     <h1>page contact - Tom & Abdelmouez</h1>
     <ul>
         <li>Abdelmouez MEMMI - abdelmouez.memmi@gmail.com</li>
+        <li>Tom - tom.vesleau1@gmail.com</li>
     </ul>
     <footer>
         &copy;2024
