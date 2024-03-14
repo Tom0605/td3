@@ -7,7 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> page contact</h1>
-    
+    <h1>page contact - Tom & Abdelmouez</h1>
+    <ul>
+        <li>Abdelmouez MEMMI - abdelmouez.memmi@gmail.com</li>
+    </ul>
+    <footer>
+        &copy;2024
+    </footer>
 </body>
 </html>
